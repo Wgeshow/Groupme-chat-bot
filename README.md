@@ -3,7 +3,7 @@
 
 This is a group me bot that has the capablity to send text and images to group chats. It is just a project that I am doing for fun.
 
-This uses heroku as a server to operate the bot and the code currently has not been documented which I will do eventualy.
+This uses heroku as a server to operate the bot.
 
 There is also functionality to access google drive to pull informaiton from google sheets. It is in a very basic form where you can only pull infromation from a cell to act as a basic database. To use the google drive funtionality you must get creditentional from https://cloud.google.com/ where you have to get it as a .json file and place it in the same folder as the .py file.
 
